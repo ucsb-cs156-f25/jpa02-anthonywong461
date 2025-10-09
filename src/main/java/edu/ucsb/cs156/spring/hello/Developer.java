@@ -32,16 +32,16 @@ public class Developer {
      * Get the developers team
      * @return developers team as a Java object
      */
-    
+   //['CHIRAN', 'DAVE S', 'RYAN LEE', 'AJAY', 'ANTHONY HERBERT', 'MAX LEE'] 
     public static Team getTeam() {
         // TODO: Change this to your team name
         Team team = new Team("f25-04");
-        team.addMember("Ajay P.");
-        team.addMember("Chiran A.");
-        team.addMember("Anthony W.");
-        team.addMember("Dave B.");
-        team.addMember("Max C.");
-        team.addMember("Ryan H.");
+        team.addMember("CHIRAN");
+        team.addMember("DAVE S");
+        team.addMember("RYAN LEE");
+        team.addMember("AJAY");
+        team.addMember("ANTHONY HERBERT");
+        team.addMember("MAX LEE");
         return team;
     }
 }
