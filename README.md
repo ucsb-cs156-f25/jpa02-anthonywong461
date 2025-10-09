@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f25/jpa02-anthonywong461/tree/main/src/main/java/edu/ucsb/cs156/spring/hello
 
-Deployed at: http://jpa02-anthonywong461.dokku-04.cs.ucsb.edu
+Deployed at: https://jpa02-anthonywong461.dokku-04.cs.ucsb.edu
 
 
 
